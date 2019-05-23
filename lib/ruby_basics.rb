@@ -5,7 +5,7 @@ end
 
 def assign_variable(value)
 value = "Bob"
-assign_variable
+value
 end
 
 def argue

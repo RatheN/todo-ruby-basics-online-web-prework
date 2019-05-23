@@ -8,9 +8,9 @@ value = "Bob"
 value
 end
 
-def argue
-phrase = argue
-argue
+def argue(phrase)
+"#{phrase}"
+
 end
 
 def greeting

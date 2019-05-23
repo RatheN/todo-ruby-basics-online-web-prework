@@ -9,7 +9,7 @@ value
 end
 
 def argue
-argue
+phrase
 end
 
 def greeting
